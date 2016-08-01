@@ -1,0 +1,7 @@
+.homesect.section2 .our-vision-container::before {
+    content: '';
+    left: 49.9%;
+  }
+.video-js .vjs-big-play-button {
+	z-index: 9999;
+}
